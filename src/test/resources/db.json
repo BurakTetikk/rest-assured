@@ -1,0 +1,65 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "location": "USA",
+      "phone": "123456789",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Ayşe Yılmaz",
+      "location": "Turkey",
+      "phone": "987654321",
+      "courses": [
+        "Python",
+        "API Testing"
+      ]
+    },
+    {
+      "name": "Sare Tetik",
+      "location": "Zonguldak",
+      "phone": "5558889977",
+      "courses": [
+        "Java",
+        "Rest Assured"
+      ],
+      "id": "A_1plisR_wg"
+    },
+    {
+      "name": "Sare Tetik",
+      "location": "Zonguldak",
+      "phone": "5558889977",
+      "courses": [
+        "Java",
+        "Rest Assured"
+      ],
+      "id": "oKnOQJBARDQ"
+    },
+    {
+      "name": "Sare Tetik",
+      "location": "Zonguldak",
+      "phone": "5558889977",
+      "courses": [
+        "Java",
+        "Rest Assured"
+      ],
+      "id": "Ot3YhCAIea8"
+    },
+    {
+      "name": "Sare Tetik",
+      "location": "Zonguldak",
+      "phone": "5558889977",
+      "courses": [
+        "Java",
+        "Rest Assured"
+      ],
+      "id": "iC9-GpKbZCk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
