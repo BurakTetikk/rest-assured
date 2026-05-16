@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/BurakT/Desktop/workspace/work/rest-assured/src/test/java/day08">
+        <classes>
+            <class name="day08.CreateUserTest">
+                <methods>
+                    <include name="createUserTest"/>
+                </methods>
+            </class>
+            <class name="day08.GetUserTest">
+                <methods>
+                    <include name="testGetUser"/>
+                </methods>
+            </class>
+            <class name="day08.UpdateUserTest">
+                <methods>
+                    <include name="createUserTest"/>
+                </methods>
+            </class>
+            <class name="day08.DeleteUserTest">
+                <methods>
+                    <include name="testDeleteUser"/>
+                </methods>
+            </class>
+
+
+        </classes>
+    </test>
+</suite>
